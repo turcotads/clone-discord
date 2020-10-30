@@ -73,7 +73,6 @@ export const User = styled.div`
 
     text-transform: uppercase;
     font-weight: bold;
-
     font-size: 11px;
   }
 `;
